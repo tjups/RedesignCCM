@@ -1,5 +1,6 @@
-var slideIndex = 1;
-showSlides(slideIndex);
+var slideIndex = 0;
+currentSlide(1);
+setInterval(function(){slideIndex++;showSlides(slideIndex);}, 3000);
 
 function plusSlides(n) {
   showSlides(slideIndex += n);
