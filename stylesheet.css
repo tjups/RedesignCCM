@@ -1,1 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+img {
+    width: 100%;
+}
+
+h1 {
+    font-family:
+}
+
+h2 {
+    font-family:
+}
+
+p {
+    font-family:
+}
+
+.video {
+    position: absolute;
+    width: 100%!important;
+    height: 100%!important;
+}
+
+.video {
+    position: relative;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
