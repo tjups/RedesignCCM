@@ -1,0 +1,10 @@
+* {margin:0;padding:0;}
+#site_header {}
+#main_content {}
+#site_footer {}
+
+h1,h2,h3,h4,h5,h6,p {padding:0 0 1em;font-size:1.2em;}
+h1 {font-size:2em;}
+
+h1,h2,h3,h4,h5,h6 {font-family: Georgia, "Sans Serif";}
+p {font-family: "Times New Roman", Serif;}
