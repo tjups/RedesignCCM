@@ -22,6 +22,10 @@ header img {
     right: 1em;
 }
 
+#om video {
+    width: 100%;
+}
+
 /********* margin og padding **************/
 
 #hjem .column_slide {
@@ -62,6 +66,7 @@ footer {
 
 
 
+
 /********* margin og padding slut **************/
 
 /********** media queries *******/
@@ -80,9 +85,7 @@ footer {
         margin: 0 auto 2em;
     }
 
-    #om video {
-        width: 100%;
-    }
+
 
     #om .column_text {
         padding: 0.5em
