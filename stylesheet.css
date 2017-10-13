@@ -187,6 +187,11 @@ footer {
         border-width: 1px;
 
     }
+
+    footer {
+        border-left: solid #d4cbcb;
+        border-width: 1px;
+    }
 }
 
 /********** media queries *******/
@@ -212,6 +217,14 @@ footer {
     color: white;
 }
 
+#galleri div:hover {
+
+    filter: grayscale(0%);
+
+}
+
+
+
 
 
 .box1 {
@@ -221,7 +234,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 
 
 }
@@ -232,7 +245,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 }
 
 .box3 {
@@ -241,7 +254,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 }
 
 .box4 {
@@ -250,7 +263,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 }
 
 .box5 {
@@ -268,7 +281,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 }
 
 .box7 {
@@ -277,7 +290,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 }
 
 .box8 {
@@ -286,7 +299,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 }
 
 .box9 {
@@ -295,7 +308,7 @@ footer {
     background-size: cover;
     border-radius: 1000px;
     text-align: center;
-    filter: grayscale(70%);
+    filter: grayscale(80%);
 }
 
 
